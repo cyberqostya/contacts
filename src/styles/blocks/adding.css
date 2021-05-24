@@ -1,0 +1,36 @@
+.adding {
+  padding: 1rem;
+}
+
+
+
+.adding__title {
+  margin: 0;
+  font-size: 1.1rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+.adding__inputs-field {
+  margin-top: 1rem;
+}
+
+
+
+.adding__input {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 1rem;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+
+
+.adding__form-button {
+  width: 100px;
+}

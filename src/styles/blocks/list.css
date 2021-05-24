@@ -1,0 +1,48 @@
+.list {
+  padding: 1rem;
+}
+
+
+
+.list__title {
+  margin: 0;
+  font-size: 1.1rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+.list__search-field {
+  margin-top: 1rem;
+  border: 1px solid #000;
+  padding: 0.5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+
+.list__search-input {
+  border: none;
+  outline: none;
+  font-size: 1.1rem;
+  width: 85%;
+}
+
+
+
+.list__search-icon {
+  width: 1rem;
+  height: 1rem;
+}
+
+
+
+.list__container {
+  margin-top: 1rem;
+}

@@ -1,0 +1,50 @@
+.card {
+  display: flex;
+  position: relative;
+
+  padding: 0.5em 0;
+  border-bottom: 1px solid #000;
+}
+
+
+
+.card__image {
+  margin-right: 1rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+  object-position: top;
+}
+
+
+
+.card__content {
+  display: flex;
+  align-items: center;
+}
+
+
+
+.card__title, .card__text  {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+
+
+.card__link {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+
+.card__trash-icon {
+  position: absolute;
+  background-image: url(../../images/user.png);
+  width: 1.5rem;
+  height: 1.5rem;
+  top: calc(50% - 0.75rem);
+  right: 0;
+  cursor: pointer;
+}
