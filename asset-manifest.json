@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cyberqostya/contacts/static/css/main.07b4dfb4.chunk.css",
+    "main.js": "/cyberqostya/contacts/static/js/main.a6997970.chunk.js",
+    "main.js.map": "/cyberqostya/contacts/static/js/main.a6997970.chunk.js.map",
+    "runtime-main.js": "/cyberqostya/contacts/static/js/runtime-main.2890b0ea.js",
+    "runtime-main.js.map": "/cyberqostya/contacts/static/js/runtime-main.2890b0ea.js.map",
+    "static/js/2.244daece.chunk.js": "/cyberqostya/contacts/static/js/2.244daece.chunk.js",
+    "static/js/2.244daece.chunk.js.map": "/cyberqostya/contacts/static/js/2.244daece.chunk.js.map",
+    "index.html": "/cyberqostya/contacts/index.html",
+    "static/css/main.07b4dfb4.chunk.css.map": "/cyberqostya/contacts/static/css/main.07b4dfb4.chunk.css.map",
+    "static/js/2.244daece.chunk.js.LICENSE.txt": "/cyberqostya/contacts/static/js/2.244daece.chunk.js.LICENSE.txt",
+    "static/media/search-icon.1d92f967.png": "/cyberqostya/contacts/static/media/search-icon.1d92f967.png",
+    "static/media/style.css": "/cyberqostya/contacts/static/media/user.22c31152.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2890b0ea.js",
+    "static/js/2.244daece.chunk.js",
+    "static/css/main.07b4dfb4.chunk.css",
+    "static/js/main.a6997970.chunk.js"
+  ]
+}
