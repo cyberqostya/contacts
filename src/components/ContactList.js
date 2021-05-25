@@ -35,7 +35,7 @@ const ContactList = (props) => {
         <img className="list__search-icon" src={searchIcon} alt="search-icon" />
       </div>
       <div className="list__container">
-        {renderContactList.length > 0 ? renderContactList : 'Поиск не показал результатов'}
+        {renderContactList.length > 0 ? renderContactList : 'Контактов не найдено'}
       </div>
     </section>
   );
